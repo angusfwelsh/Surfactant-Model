@@ -1,5 +1,6 @@
 # Surfactant Model
  A machine learning model to predict if a chemical molecule will have surfactant properties based on its structure.
+ 
  I developed this machine learning model for my Capstone Project as part of my Master's in Data Science from Eastern University.
  Surfactants are an important group of molecules which are used across a wide variety of industries; including oilfield, agriculture and personal care. 
  Identifying molecules which have surface activity is important as researchers seek to make advances in these industries. 
